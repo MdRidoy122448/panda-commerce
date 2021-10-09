@@ -1,4 +1,4 @@
-.container{
+/*.container{
     margin-bottom: 100px;
 }
 .orange-bg{
@@ -18,3 +18,10 @@
     border-radius: 8px;
     padding: 9px 25px;
 }
+.catA{
+    background-image: linear-gradient(to left, tomato,red );
+}
+.caro{
+    background-color: rebeccapurple;
+}
+*/
