@@ -24,3 +24,22 @@
 .caro{
     background-color: rebeccapurple;
 }
+.cat1, .cat2,.cat3{
+    padding:10px 30px;
+    border-radius:10px;
+}
+.cat1{
+    background-image: linear-gradient(to left, red,orange);
+}
+.cat2{
+    background-image: linear-gradient(to left, rgb(88, 165, 196),rgb(49, 145, 209));
+}
+.cat3{
+    background-image: linear-gradient(to left, rgb(202, 50, 50),rgb(221, 110, 58));
+}
+.categories h1{
+    color:white;
+}
+.categories img{
+    width:120px;
+}
